@@ -1,0 +1,20 @@
+@media all and (min-width: 480px) {
+    .Edit {
+      padding: 60px 0;
+    }
+  
+    .Edit {
+      margin: 0 auto;   
+      width: 500px;
+    }
+    
+  }
+
+
+
+ .Edit input{
+    height: auto !important;
+    width: 400px;
+  }
+
+  

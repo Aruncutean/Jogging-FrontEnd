@@ -1,0 +1,19 @@
+@media all and (min-width: 700px) {
+    .SingUp {
+        padding: 60px 0;
+    }
+
+    .SingUp form {
+        margin: 0 auto;
+        width: 500px;
+    }
+}
+.SingUp form {
+    margin: 0 auto;
+    width: 500px;
+}
+
+input[type="submit"] {
+    height: auto !important;
+    width: 100%;
+}

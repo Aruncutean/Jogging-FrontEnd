@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;   
+    width: 500px;
+  }
+  
+}
+
+input[type="submit"] {
+  height: auto !important;
+  width: 100%;
+}
